@@ -84,6 +84,7 @@ a {
   border: 3px black solid;
   border-radius: 2px;
   background: transparent;
+  background-color: var(--main);
   cursor: pointer;
 }
 
